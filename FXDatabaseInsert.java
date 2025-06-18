@@ -85,3 +85,4 @@ public class FXDatabaseInsert extends Application {
         launch(args);
     }
 }
+ // using vs code by extention sql connect and add sdk and connect server then develope a databse
